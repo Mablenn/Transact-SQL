@@ -1,3 +1,4 @@
 /^
-  Actualización de registros. Update
-  */
+  UPDATE  
+  Actualización de registros.
+*/
