@@ -7,5 +7,6 @@
 
 <h2>02 Escritura</h2>
 <ul>
+  <li><a href="https://github.com/Mablenn/SQL/blob/main/02_Escritura/insert.sql">Insert</>
  <li><a href="https://github.com/Mablenn/SQL/blob/main/02_Escritura/update.sql">Update</></li>
 </ul>
