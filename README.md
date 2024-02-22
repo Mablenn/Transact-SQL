@@ -1,6 +1,4 @@
 
-<html>
-	<body>
 		<h3>01 Tipos de datos de SQL Server</h3>
 		<table border="1">
 			<thead>
@@ -122,5 +120,4 @@
 			<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/02_Data_Definition_Language/drop.sql">Drop<a/></li>
 			<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/02_Data_Definition_Language/alter.sql">Alter<a/></li>
 		</ul>
-	</body>	
-</html>
+
