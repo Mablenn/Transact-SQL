@@ -1,13 +1,9 @@
 # SQL
 <h3>01 Tipos de datos de SQL Server</h3>
 <table border=0>
- <th>
-  <tr>Tipo</tr>
- </th>
- <th>
-  <tr>Descripcion</tr>
- </th>
-</table>table>
+ <th>Tipo</th>
+ <th>>Descripcion</th>
+</table>
   
 </table>
 <h3>02 Data Manipulation Language (DML)</h3>
