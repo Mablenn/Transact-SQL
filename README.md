@@ -5,37 +5,44 @@
 	 			<th>Tipo</th>
 	 			<th>Descripci&oacute;n</th>
 	 			<th>Tamaño</th>
+				<th>Rango</th>
 	 		</tr>
 		</thead>
 		<tr>
 		 	<td>bit</td>
 		 	<td>Tipo Bit</td>
 		 	<td>De 1 bit a 1 byte dependiendo del n&uacute;mero de columnas de este tipo en la tabla.</td>
+			<td>0 &oacute; 1</td>
 		 </tr>
 		 <tr>
 		 	<td>binary(n)</td>
 		 	<td>Binario de longitud fija. </td>
 		 	<td>Los n bytes asignados.</td>
+			<td>M&aacute;ximo 255 bytes de longitud.</td>
 		 </tr>
 		 <tr>
 		 	<td>varbinary(n)</td>
 		 	<td>Binario de longitud variable. </td>
 		 	<td>M&aacute;ximo los n bytes asignados.</td>
+			<td>M&aacute;ximo 255 bytes de longitud.</td>
 		 </tr>
 		 <tr>
 		 	<td>tinyint</td>
 		 	<td>Entero min&uacute;sculo</td>
 		 	<td>1 byte</td>
+			<td>De 0 a 255.</td>
 		 </tr>
 		 <tr>
 		 	<td>smallint</td>
 		 	<td>Entero corto</td>
 		 	<td>2 bytes</td>
+			<td>Desde -32.768 hasta 32.767.</td>
 		 </tr>
 		 <tr>
 		 	<td>int</td>
 		 	<td>Entero</td>
 		 	<td>4 bytes</td>
+			<td>Desde -2.147.483.648 hasta 2.147.483.647</td>
 		 </tr>
 		 <tr>
 		 	<td>bigint</td>
