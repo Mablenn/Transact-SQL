@@ -120,9 +120,9 @@
 		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/02_Data_Definition_Language/drop.sql">Drop<a/></li>
 		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/02_Data_Definition_Language/alter.sql">Alter<a/></li>
 	</ul>
- <h3>03 Data Control Language (DDL)</h3>
+ <h3>04 Data Control Language (DcL)</h3>
 	<ul>
-		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/03_Data_Control_Language/grant.sql">Create<a/></li>
-		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/03_Data_Control_Language/deny.sql">Drop<a/></li>
-		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/03_Data_Control_Language/revoke.sql">Alter<a/></li>
+		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/03_Data_Control_Language/grant.sql">Grant<a/></li>
+		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/03_Data_Control_Language/deny.sql">Deny<a/></li>
+		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/03_Data_Control_Language/revoke.sql">Revoke<a/></li>
 	</ul>
