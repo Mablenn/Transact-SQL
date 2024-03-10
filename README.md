@@ -1,5 +1,3 @@
-#SQL
-
 <h3>01 Tipos de datos de SQL Server</h3>
 	<table border="1">
 		<thead>
@@ -61,7 +59,7 @@
 		 </tr>
 		 <tr>
 		 	<td>Real</td>
-		 	<td>Num&2acute;rico de coma flotante con redondeo. Doble precisi&oacute;n</td>
+		 	<td>Num&eacute;rico de coma flotante con redondeo. Doble precisi&oacute;n</td>
 		 	<td>4 bytes</td>
 		 </tr>
 		 <tr>
