@@ -5,7 +5,7 @@
 		<thead>
 			<tr>
 	 			<th>Tipo</th>
-	 			<th>Descripcion</th>
+	 			<th>Descripci&oacute;n</th>
 	 			<th>Tamaño</th>
 	 		</tr>
 		</thead>
@@ -22,7 +22,7 @@
 		 <tr>
 		 	<td>varbinary(n)</td>
 		 	<td>Binario de longitud variable. </td>
-		 	<td>Maximo los n bytes asignados.</td>
+		 	<td>M&aacute;ximo los n bytes asignados.</td>
 		 </tr>
 		 <tr>
 		 	<td>tinyint</td>
