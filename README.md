@@ -54,7 +54,7 @@
 		 	<td>Decimal exacto sin redondeo</td>
 		 	<td>2 a 17 bytes según la precisi&oacute;n</td>
 		 </tr>
-		 <tr&acute;
+		 <tr>
 		 	<td>decimal(presicion, scale)</td>
 		 	<td>Decimal exacto sin redondeo</td>
 		 	<td>2 a 17 bytes según la precisi&oacute;n</td>
