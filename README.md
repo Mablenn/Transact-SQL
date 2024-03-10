@@ -26,7 +26,7 @@
 		 </tr>
 		 <tr>
 		 	<td>tinyint</td>
-		 	<td>Entero minusculo</td>
+		 	<td>Entero min&uacute;sculo</td>
 		 	<td>1 byte</td>
 		 </tr>
 		 <tr>
@@ -45,43 +45,43 @@
 		 	<td>8 bytes</td>
 		 </tr>
 		 <tr>
-		 	<td>numeric(presicion, scale)</td>
+		 	<td>numeric(presici&oacute;n, scale)</td>
 		 	<td>Decimal exacto sin redondeo</td>
-		 	<td>2 a 17 bytes según la precision</td>
+		 	<td>2 a 17 bytes según la precisi&oacute;n</td>
 		 </tr>
-		 <tr>
+		 <tr&acute;
 		 	<td>decimal(presicion, scale)</td>
 		 	<td>Decimal exacto sin redondeo</td>
-		 	<td>2 a 17 bytes según la precision</td>
+		 	<td>2 a 17 bytes según la precisi&oacute;n</td>
 		 </tr>
 		 <tr>
 		 	<td>float</td>
-		 	<td>Numerico de coma flotante con redondeo. Doble precision</td>
-		 	<td>8 bytesS</td>
+		 	<td>Num&eacute;rico de coma flotante con redondeo. Doble precisi&oacute;n</td>
+		 	<td>8 bytes</td>
 		 </tr>
 		 <tr>
 		 	<td>Real</td>
-		 	<td>Numerico de coma flotante con redondeo. Doble precision</td>
+		 	<td>Num&2acute;rico de coma flotante con redondeo. Doble precisi&oacute;n</td>
 		 	<td>4 bytes</td>
 		 </tr>
 		 <tr>
 		 	<td>char(n)</td>
-		 	<td>Alfanumerico de longitud fija</td>
+		 	<td>Alfanum&eacute;rico de longitud fija</td>
 		 	<td>1 byte por caracter declarado.</td>
 		 </tr>
 		 <tr>
 		 	<td>varchar(n)</td>
-		 	<td>Alfanumerico de longitud variable</td>
+		 	<td>Alfanum&eacute;rico de longitud variable</td>
 		 	<td>1 byte por caracter utilizado.</td>
 		 </tr>
 		 <tr>
 		 	<td>smallmoney</td>
-		 	<td>Moneda. Numerico con precision de 4 decimales.</td>
+		 	<td>Moneda. Num&eacute;rico con precisi&oacute;n de 4 decimales.</td>
 		 	<td>4 bytes</td>
 		 </tr>
 		 <tr>
 		 	<td>money</td>
-		 	<td>Moneda. Numerico con precision de 4 decimales.</td>
+		 	<td>Moneda. Num&eacute;rico con precision de 4 decimales.</td>
 		 	<td>8 bytes</td>
 		 </tr>
 		 <tr>
@@ -101,7 +101,7 @@
 		 </tr>
 		 <tr>
 		 	<td>image</td>
-		 	<td>Guarda imagenes hasta 2 Gigas.</td>
+		 	<td>Guarda im&aacute;genes hasta 2 Gigas.</td>
 		 	<td>Maximo 2 Gigabytes</td>
 		 </tr>
 	</table>
