@@ -12,7 +12,7 @@
 		<tr>
 		 	<td>bit</td>
 		 	<td>Tipo Bit</td>
-		 	<td>De 1 bit a 1 byte dependiendo del numero de columnas de este tipo en la tabla.</td>
+		 	<td>De 1 bit a 1 byte dependiendo del n&uacute;mero de columnas de este tipo en la tabla.</td>
 		 </tr>
 		 <tr>
 		 	<td>binary(n)</td>
