@@ -132,3 +132,7 @@
 		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/03_Data_Control_Language/deny.sql">Deny<a/></li>
 		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/03_Data_Control_Language/revoke.sql">Revoke<a/></li>
 	</ul>
+ <h3>05 Operadores l&oacute;gicos</h3>
+	<ul>
+		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/05_operadores_loogicos/like.sql">Like<a/></li>
+	</ul>
