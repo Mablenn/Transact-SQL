@@ -7,7 +7,7 @@
 
   Caracter comodín        Descripción
   ++++++++++++++++    +   ++++++++++++
-        %             +
-        _             +
+        _             +    El match coincide con cualquier caracter.
+        %             +    Sustituye una cadena de caracteres de tamaño 0 a N.
         []            +
         [^]           +
