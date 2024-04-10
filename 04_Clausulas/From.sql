@@ -1,4 +1,4 @@
 /*
-  WHERE
+  FROM
   
 */
