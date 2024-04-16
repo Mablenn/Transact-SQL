@@ -1,7 +1,8 @@
 /*
   Un Stored Procedure es un objeto almacenado en el servidor de la base datos que contiene
   un conjunto de sentencias o instrucciones que las podemos reutilizar invocando su nombre.
-  Los procedimientos almacenados los podríamos entender como un conjunto de sentencias precompiladas  
+  Los procedimientos almacenados los podríamos entender como un conjunto de sentencias precompiladas.
+  Además, un procedimiento almacenado admite el paso de valores cómo parámetros.
 */
 
 CREATE PROCEDURE InsertarProveedores
