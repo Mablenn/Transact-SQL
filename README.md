@@ -1,4 +1,4 @@
-<h3>01 Tipos de datos de SQL Server</h3>
+<h3>Tipos de datos de SQL Server</h3>
 	<table border="1">
 		<thead>
 			<tr>
@@ -110,7 +110,7 @@
 		 	<td>Maximo 2 Gigabytes</td>
 		 </tr>
 	</table>
- <h3>02 Data Manipulation Language (DML)</h3>
+ <h3>01 Data Manipulation Language (DML)</h3>
 		<ul>
 			 <li><a href="https://github.com/Mablenn/Transact-sQL/blob/main/01_Data_Manipulation_Language/comentarios.sql">Comentarios<a/></li>
 			 <li><a href="https://github.com/Mablenn/Transact-sQL/blob/main/01_Data_Manipulation_Language/select.sql">Select<a/></li>
@@ -120,13 +120,13 @@
 				  <li><a href="https://github.com/Mablenn/Transact-sQL/blob/main/01_Data_Manipulation_Language/Truncate.sql">Truncate<a/></li>
 		 </ul>
 
-<h3>03 Data Definition Language (DDL)</h3>
+<h3>02 Data Definition Language (DDL)</h3>
 	<ul>
 		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/02_Data_Definition_Language/create.sql">Create<a/></li>
 		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/02_Data_Definition_Language/drop.sql">Drop<a/></li>
 		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/02_Data_Definition_Language/alter.sql">Alter<a/></li>
 	</ul>
- <h3>04 Data Control Language (DCL)</h3>
+ <h3>03 Data Control Language (DCL)</h3>
 	<ul>
 		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/03_Data_Control_Language/grant.sql">Grant<a/></li>
 		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/03_Data_Control_Language/deny.sql">Deny<a/></li>
