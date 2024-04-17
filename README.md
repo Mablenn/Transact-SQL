@@ -146,3 +146,8 @@
 	<ul>
 		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/05_Operadores_logicos/like.sql">Like<a/></li>
 	</ul>
+ <h3>06 Funciones de agregaci&oacute;n</h3>
+	<ul>
+		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/05_Operadores_logicos/like.sql">Count<a/></li>
+	</ul>
+
