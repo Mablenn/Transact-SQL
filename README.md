@@ -132,6 +132,16 @@
 		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/03_Data_Control_Language/deny.sql">Deny<a/></li>
 		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/03_Data_Control_Language/revoke.sql">Revoke<a/></li>
 	</ul>
+<h3>04 Cl&aacute;usulas</h3>
+	<ul>
+		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/04_Clausulas/From.sql">From<a/></li>
+		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/04_Clausulas/Group_by.sql">Group by<a/></li>
+		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/04_Clausulas/Having.sql">Having<a/></li>
+		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/04_Clausulas/Into.sql">Into<a/></li>
+		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/04_Clausulas/Order_by.sql">Order by<a/></li>
+		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/04_Clausulas/Top.sql">Top<a/></li>
+  		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/04_Clausulas/Where.sql">Where<a/></li>
+	</ul>
  <h3>05 Operadores l&oacute;gicos</h3>
 	<ul>
 		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/05_Operadores_logicos/like.sql">Like<a/></li>
