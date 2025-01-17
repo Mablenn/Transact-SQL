@@ -15,7 +15,7 @@
 CREATE TABLE Productos
 (
     --Primera columna
-    productoId INT IDENTITY(1,1) NOT NULL,
+    productoId INT PRIMARY KEY IDENTITY(1,1) NOT NULL,
     --Segunda columna
     proveedorId SMALLINT NOT NULL,
     --Tercera columna
