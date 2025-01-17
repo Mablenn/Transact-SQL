@@ -1,6 +1,6 @@
 /*
   UPDATE  
-  Actualización de registros.
+  Este comando se utiliza para la modificación de registros de una tabla.
 */
 
 
@@ -8,3 +8,9 @@
 UPDATE proveedores
 SET importe = importe + 25
 WHERE fecha > 2024-03-01
+
+-- Actualiza el salario de los empleados del dto 'administracion' al salario medio del dto 'ventas'.
+UPDATE empleados
+SET salario = (SELECT AVG(salario) FROM empleados WHERE departamento = 'ventas')
+WHERE departamento = 'administracion';
+
