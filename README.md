@@ -135,7 +135,7 @@
 <h3>04 Cl&aacute;usulas</h3>
 	<ul>
 		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/04_Clausulas/From.sql">From<a/></li>
-		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/04_Clausulas/02_Group_by.sql)">Group by<a/></li>
+		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/04_Clausulas/02_Group_by.sql">Group by<a/></li>
 		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/04_Clausulas/03_Having.sql">Having<a/></li>
 		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/04_Clausulas/04_Into.sql">Into<a/></li>
 		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/04_Clausulas/Order_by.sql">Order by<a/></li>
