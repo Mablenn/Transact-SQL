@@ -10,6 +10,10 @@
       nombre_columna3  tipo_dato,
   )
 
+  Convenciones:
+    -Usar nombres propios a la hora de crear tablas. El nombre que empiece por mayúscula
+    -Usar caracteres en minúscula para los  nombres de columna
+    -Nombre únicos, no utilizar el mismo nombre para más de un objeto.
 */
 
 CREATE TABLE Productos
