@@ -117,7 +117,7 @@
 			 <li><a href="https://github.com/Mablenn/Transact-sQL/blob/main/01_Data_Manipulation_Language/insert.sql">Insert<a/></li>
 			 <li><a href="https://github.com/Mablenn/Transact-sQL/blob/main/01_Data_Manipulation_Language/update.sql">Update<a/></li>
 			 <li><a href="https://github.com/Mablenn/Transact-sQL/blob/main/01_Data_Manipulation_Language/delete.sql">Delete<a/></li>
-				  <li><a href="https://github.com/Mablenn/Transact-sQL/blob/main/01_Data_Manipulation_Language/Truncate.sql">Truncate<a/></li>
+				  <li><a href="https://github.com/Mablenn/Transact-sQL/blob/main/01_Data_Manipulation_Language/truncate.sql">Truncate<a/></li>
 		 </ul>
 
 <h3>02 Data Definition Language (DDL)</h3>
