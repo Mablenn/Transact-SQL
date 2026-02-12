@@ -138,9 +138,9 @@
 		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/04_Clausulas/02_Group_by.sql">Group by<a/></li>
 		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/04_Clausulas/03_Having.sql">Having<a/></li>
 		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/04_Clausulas/04_Into.sql">Into<a/></li>
-		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/04_Clausulas/Order_by.sql">Order by<a/></li>
-		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/04_Clausulas/Top.sql">Top<a/></li>
-  		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/04_Clausulas/Where.sql">Where<a/></li>
+		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/04_Clausulas/05_order_by.sql">Order by<a/></li>
+		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/04_Clausulas/06_top.sql">Top<a/></li>
+  		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/04_Clausulas/07_where.sql">Where<a/></li>
 	</ul>
  <h3>05 Operadores l&oacute;gicos</h3>
 	<ul>
