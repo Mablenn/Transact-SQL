@@ -148,7 +148,7 @@
 	</ul>
  <h3>06 Funciones de agregaci&oacute;n</h3>
 	<ul>
-		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/06_Funciones_agregacion/count.sql">Count<a/></li>
-		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/06_Funciones_agregacion/avg.sql">AVG<a/></li>
+		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/06_Funciones_agregacion/01_count.sql">Count<a/></li>
+		<li><a href="https://github.com/Mablenn/Transact-SQL/blob/main/06_Funciones_agregacion/02_avg.sql">AVG<a/></li>
 	</ul>
 
