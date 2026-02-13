@@ -1,7 +1,7 @@
 /*
   CREATE
-Este comando nos permite craar nuevo objetos en una base de datos. En cuanto objetos nos
-referimos a usuarios, tablas, vistas, índices o una base de datos.
+Este comando nos permite crear nuevo objetos en una base de datos. En cuanto objetos nos
+referimos a usuarios, tablas, vistas, índices o una propia base de datos.
 
 
 Crear una base de datos
@@ -11,22 +11,22 @@ CREATE DATABASE [PorticDB]
 ON PRYMARY
 (
   NAME = 'PorticDB',
-  FILENAME = 'C:\Datos\PorticDB.mdf',
+  FILENAME = 'C:\Datos\PorticDB.mdf', -- Archivo primario
   SIZE = 10MB,
   FILEGROWTH = 5MB
 )
 LOG ON
 (
   NAME = 'PorticDB',
-  FILENAME = 'C:\Datos\PorticDB.ldf',
+  FILENAME = 'C:\Datos\PorticDB.ldf', -- Archivo de registro
   SIZE = 5MB,
   FILEGROWTH = 1MB
 )
 
-NAME: Nombre de la base de datos
-FILENAME: Ruta donde se almacena la base de datos
-SIZE: Tamaño para el archivo primario
-FILEGROWTH: Tamaño del archivo de transacciones
+NAME: Nombre de la base de datos.
+FILENAME: Ruta donde se almacena el archivo de la base de datos o el archivo de registro.
+SIZE: Tamaño del archivo. Este lo podemos definar en Megabytes o Kilobytes: 10MB [10 Megabytes]- 3072KB [3072 Kilobytes]
+FILEGROWTH: Incremento del archivo.
 
 
 Crear una tabla
