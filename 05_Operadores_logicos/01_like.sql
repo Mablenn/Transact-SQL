@@ -9,7 +9,7 @@
   ++++++++++++++++    +   ++++++++++++
         _             +    El match coincide con cualquier caracter.
         %             +    Sustituye una cadena de caracteres de tamaño 0 a N.
-        []            +
+        []            +    Especifica un rango o conjunto de caracteres. [a-d] -> de la 'a' hasta la 'd'. [aei] -> Match con a, e ó i
         [^]           +
 
 -- Busca los clientes cuyo primer apellido termine en 'ez'
