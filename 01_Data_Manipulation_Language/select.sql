@@ -19,3 +19,14 @@ WHERE id = 122
 SELECT 3 * 5 AS MULTIPLICA, 10 / 2 AS DIVIDE
 -- o mostrar texto.
 SELECT 'Mensaje de texto' AS Mensaje
+
+-- SELECT también permite asignar valores a variables, de forma similar a SET. La diferencia está en que con SET sólo
+-- se puede asignar el valor de una variable, mientras con SELECT podemos asignar valor a más de una variable a la vez.
+DECLARE @nombre VARCHAR(10),
+  @apellido VARCHAR(10),
+  @departamento VARCHAR(10)
+
+SET @nombre = 'Michael'
+SELECT @apellido = 'Farrel', @departamento = 'IT'
+-- Muestra contenido de las variables
+SELECT @nombre, @apellido, @departamento
