@@ -11,3 +11,15 @@
         %             +    Sustituye una cadena de caracteres de tamaño 0 a N.
         []            +
         [^]           +
+
+-- Busca los clientes cuyo primer apellido termine en 'ez'
+SELECT nombre, primerApellido
+FROM Clientes
+WHERE primerApellido LIKE '%ez'
+
+-- Del mismo modo, podemos utilzar NOT LIKE para excluir registros
+-- Muestra los proveedores que su nombre no empiece por 'Media'
+
+SELECT *
+FROM Proveedores
+WHERE nombreProveedor NOT LIKE 'Media%'
